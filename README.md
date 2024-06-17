@@ -46,7 +46,8 @@ Install these dependencies using the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 
-Usage
+
+## **Usage**
 Load an Image:
 
 Click on "Load Image" to select an image file.
