@@ -31,7 +31,7 @@ A user-friendly application for processing and analyzing medical images. This ap
 
 3. **Run the application**:
     ```bash
-    python app.py
+    main.py
     ```
 
 ## Dependencies
@@ -69,12 +69,12 @@ Batch Processing:
 Select the "Batch Processing" option from the Tools menu.
 Choose a folder containing images to process all images in the folder.
 
-# Screenshots
-## Main Interface
+Screenshots
+Main Interface
 
-## Processed Image
+Processed Image
 
-## Histogram
+Histogram
 
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
